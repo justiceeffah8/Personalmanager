@@ -1,7 +1,7 @@
 # Import the necessary libraries
 import streamlit as st
 import pandas as pd
-import plotly.express as px
+import matplotlib.pyplot as px
 from datetime import datetime
 import os
 
@@ -179,4 +179,5 @@ if st.button("Save DataFrame Edits"):
         save_data(updated_df)
         st.success("Dataframe changes saved!")
     except Exception as e:
+
         st.error(f"Failed to save changes: {e}")
