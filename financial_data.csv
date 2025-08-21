@@ -1,1 +1,13 @@
 Date,Type,Category,Description,Amount,Source
+2025-08-18,Assets,Saving,Carf,2000000.0,Cash
+2025-08-18,Income,Saving,,1000.0,Cash
+2025-08-18,Asset,Saving,,1000.0,Cash
+2025-08-18,Asset,Other expenses,,50000.0,Mobile Money
+2025-08-18,Asset,Saving,,200000.0,Cash
+2025-08-18,Expense,Saving,,3000.0,Cash
+2025-08-18,Asset,Saving,,2000.0,Cash
+2025-08-21,Expense,Utilities,,500.0,Cash
+2025-08-21,Income,Car expenses,,8000.0,Loan
+2025-08-21,Expense,Toilaries,,500.0,Credit Card
+2025-08-21,Liability,loan,,5245662.0,Loan
+2025-08-21,Asset,Saving,,100000000.0,Cash
